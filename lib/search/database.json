@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://https://en.wikipedia.org/wiki/Morty_Smith",
+    "title": "This is a link to a search result about Morty Smith",
+    "text": "Description of the search result. The description might be a bit long and it will tell you everything you need to know about the search result."
+  },
+  {
+    "url": "https://https://en.wikipedia.org/wiki/Rick_Sanchez",
+    "title": "This is a link to a search result about Rick Sanchez",
+    "text": "Description of the search result. The description might be a bit long and it will tell you everything you need to know about the search result."
+  },
+  {
+    "url": "https://https://en.wikipedia.org/wiki/Summer_Smith",
+    "title": "This is a link to a search result about Summer Smith",
+    "text": "Description of the search result. The description might be a bit long and it will tell you everything you need to know about the search result."
+  },
+  {
+    "url": "https://https://en.wikipedia.org/wiki/Jerry_Smith_(Rick_and_Morty)",
+    "title": "This is a link to a search result about Jerry Smith",
+    "text": "Description of the search result. The description might be a bit long and it will tell you everything you need to know about the search result."
+  }
+]
